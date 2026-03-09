@@ -11,4 +11,4 @@ Ders 3- Veri Bilimi https://colab.research.google.com/drive/1SEdT7LGa3igOlRpG8bf
 Data: https://drive.google.com/file/d/1aXFyyh7Hpw8IwWsDEg81xlfKNmAA_uSZ/view?usp=sharing
 
 Ders 4- Kaggle Titanic Competiotion 
-https://www.kaggle.com/code/drmurataltun/titanik-yar-mas
+[https://www.kaggle.com/code/drmurataltun/titanik-yar-mas](https://github.com/yapayzekaokulum/ECS-YZ-VB-90-2601/blob/main/titanik-yar-mas.ipynb)
