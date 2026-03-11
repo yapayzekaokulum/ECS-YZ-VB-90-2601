@@ -12,3 +12,6 @@ Data: https://drive.google.com/file/d/1aXFyyh7Hpw8IwWsDEg81xlfKNmAA_uSZ/view?usp
 
 Ders 4- Kaggle Titanic Competiotion 
 https://www.kaggle.com/code/drmurataltun/titanik-yar-mas-mart-2026
+
+Ders 5- Araç Fiyat Tahmin
+https://colab.research.google.com/drive/1WrY0aLoyo94ePjqaMrfryPsmEY0zdBib?usp=sharing
