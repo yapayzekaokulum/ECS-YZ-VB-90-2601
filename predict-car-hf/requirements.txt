@@ -1,0 +1,8 @@
+matplotlib
+seaborn
+numpy
+gradio
+joblib
+scikit-learn==1.6.1
+pandas==2.2.2
+xlrd>1.0.0
