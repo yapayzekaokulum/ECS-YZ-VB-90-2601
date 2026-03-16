@@ -1,32 +1,40 @@
----
-title: Araç Fiyat Tahmini
-emoji: 🚗
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-python_version: 3.13
-app_file: app.py
-pinned: false
----
+ARAÇ FİYAT TAHMİN UYGULAMASI (README)
+Bu proje, makine öğrenmesi kullanılarak araçların çeşitli özelliklerine göre fiyat tahmini yapan bir web uygulamasıdır. Hugging Face Spaces üzerinde çalıştırılmak üzere yapılandırılmıştır.
 
-# Araç Fiyat Tahmin Uygulaması
+GEREKSİNİMLER
+Python Sürümü: 3.13
+Bağımlılıklar (requirements.txt):
 
-Bu repo, Gradio tabanlı araç fiyat tahmin modelinin Hugging Face Spaces üzerinde çalıştırılması için yapılandırılmıştır.
-
-## Dosya Yapısı
-
-* `app.py`: Gradio arayüzünü başlatan ve tahminleri işleyen ana uygulama dosyası.
-* `car_price_model.pkl`: Eğitilmiş scikit-learn modeli.
-* `cars.xls`: Marka, model ve donanım seçeneklerini dinamik olarak besleyen referans veri seti.
-* `requirements.txt`: Bağımlılık listesi.
-
-## Gereksinimler (requirements.txt)
-
-Hugging Face ortamının projeyi doğru derleyebilmesi için `requirements.txt` dosyanızın içeriği aşağıdaki gibi olmalıdır:
-
-```text
 scikit-learn==1.6.1
+
 pandas
+
 xlrd>1.0.0
+
 gradio
+
 joblib
+
+DOSYA YAPISI
+app.py               : Gradio arayüzünü başlatan ana uygulama dosyası.
+
+car_price_model.pkl  : Eğitilmiş makine öğrenmesi modeli.
+
+cars.xls             : Arayüzdeki seçenekleri (marka, model vb.) dinamik dolduran veri seti.
+
+requirements.txt     : Proje bağımlılıklarını içeren dosya.
+
+KURULUM VE ÇALIŞTIRMA
+Gerekli kütüphaneleri yükleyin:
+pip install -r requirements.txt
+
+Uygulamayı başlatın:
+python app.py
+
+Hugging Face Spaces ortamında dağıtım yaparken, projenin ana dizininde bulunan requirements.txt dosyası otomatik olarak algılanıp derlenecektir. app.py dosyasının en üstüne YAML yapılandırmasının (frontmatter) eklenmiş olması gerekmektedir.
+
+GELİŞTİRİCİ / İLETİŞİM
+Dr. Murat Altun
+Web: https://yapayzekaokulum.com/
+GitHub: https://github.com/yapayzekaokulum
+E-posta: emurataltun@gmail.com
