@@ -1,3 +1,32 @@
+---
+title: Araç Fiyat Tahmini
+emoji: 🚗
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+python_version: 3.13
+app_file: app.py
+pinned: false
+---
+
+# Araç Fiyat Tahmin Uygulaması
+
+Bu repo, Gradio tabanlı araç fiyat tahmin modelinin Hugging Face Spaces üzerinde çalıştırılması için yapılandırılmıştır.
+
+## Dosya Yapısı
+
+* `app.py`: Gradio arayüzünü başlatan ve tahminleri işleyen ana uygulama dosyası.
+* `car_price_model.pkl`: Eğitilmiş scikit-learn modeli.
+* `cars.xls`: Marka, model ve donanım seçeneklerini dinamik olarak besleyen referans veri seti.
+* `requirements.txt`: Bağımlılık listesi.
+
+## Gereksinimler (requirements.txt)
+
+Hugging Face ortamının projeyi doğru derleyebilmesi için `requirements.txt` dosyanızın içeriği aşağıdaki gibi olmalıdır:
+
+```text
 scikit-learn==1.6.1
 pandas
 xlrd>1.0.0
+gradio
+joblib
