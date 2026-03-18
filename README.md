@@ -24,3 +24,6 @@ https://colab.research.google.com/drive/1O70rvlcc31WBgCOJhaAWBy5oRFMYQhQ1?usp=sh
 
 Ders 8- Online Form (Gradio ile veri toplama)
 https://colab.research.google.com/drive/1_6IOZEoNE6QC2Rv14k0T8K5MzqcXqejc?usp=sharing
+
+Ders 9-PAndas ile Veri Çekme
+https://colab.research.google.com/drive/1c0juP2sNei20radCDREE4e16zZ7ec6Wf?usp=sharing
