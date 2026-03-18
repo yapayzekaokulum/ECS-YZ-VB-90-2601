@@ -21,3 +21,6 @@ https://colab.research.google.com/drive/19qY8vPjKlPxa93cuRrfFuILYtdv9JJtI?usp=sh
 
 Ders 7-Toplu Görsel İndirme
 https://colab.research.google.com/drive/1O70rvlcc31WBgCOJhaAWBy5oRFMYQhQ1?usp=sharing
+
+Ders 8- Online Form (Gradio ile veri toplama)
+https://colab.research.google.com/drive/1_6IOZEoNE6QC2Rv14k0T8K5MzqcXqejc?usp=sharing
