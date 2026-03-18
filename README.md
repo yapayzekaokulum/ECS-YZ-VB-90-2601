@@ -18,3 +18,6 @@ https://colab.research.google.com/drive/1WrY0aLoyo94ePjqaMrfryPsmEY0zdBib?usp=sh
 
 Ders 6-Slider Sldier Uygulaması
 https://colab.research.google.com/drive/19qY8vPjKlPxa93cuRrfFuILYtdv9JJtI?usp=sharing
+
+Ders 7-Toplu Görsel İndirme
+https://colab.research.google.com/drive/1O70rvlcc31WBgCOJhaAWBy5oRFMYQhQ1?usp=sharing
