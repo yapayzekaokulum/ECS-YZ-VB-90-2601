@@ -49,3 +49,6 @@ veya HF üzerinden space ile Deploy ederseniz o daha iyi :)
 
 Ders-14 Finans Verileri  (yfinance - Alpha Vantage API)
 https://colab.research.google.com/drive/1xsRxLNtAjSIUxaqG9RJ-bKxMpzjfHsFf?usp=sharing
+
+Ders-15 Open Weather API ile hava durumu 
+https://colab.research.google.com/drive/1eyZfdpoHxkJvQ8HmONwwwK86BcDBjhSn?usp=sharing
