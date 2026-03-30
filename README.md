@@ -38,3 +38,6 @@ https://aistudio.google.com/apps/725c31fd-4930-48a6-8d2b-e5bc77d4b278?showPrevie
 http://aistudio.google.com/apps/cd4acd68-4162-4bd9-b0d0-c208e5cbe510?showPreview=true&showAssistant=true
 https://aistudio.google.com/apps/234239f6-6ec7-474c-b780-07fced36ed8a?showPreview=true&showAssistant=true
 
+Ders-12 Google Trends
+https://colab.research.google.com/drive/1SOMWJv-9nTfhLkv8nvIFzN5p-eUF_GBw?usp=sharing
+
