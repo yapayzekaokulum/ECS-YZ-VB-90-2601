@@ -42,3 +42,7 @@ Ders-12 Google Trends
 https://colab.research.google.com/drive/1SOMWJv-9nTfhLkv8nvIFzN5p-eUF_GBw?usp=sharing
 
 <img width="1585" height="716" alt="image" src="https://github.com/user-attachments/assets/47c0ba39-2627-443d-acb2-7fbd11fb4234" />
+
+Ödev Gradio arayüz ile Google Trends Arama 
+https://colab.research.google.com/drive/1CYyrRFhdcSCPjb4Q-STluktt98V5jQNl?usp=sharing 
+veya HF üzerinden space ile Deploy ederseniz o daha iyi :)
