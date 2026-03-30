@@ -30,3 +30,10 @@ https://colab.research.google.com/drive/1c0juP2sNei20radCDREE4e16zZ7ec6Wf?usp=sh
 
 Ders 10-Corona Veri Seti Yarışan Grafikler
 https://colab.research.google.com/drive/1PoBcbrSBv2e_zjCflJCLM2aUPRTKFSBD?usp=sharing
+
+Ders-11 Google AI Studio Uygulamaları (Full Stack Uygulamalar gelitştirebilirsiniz. Bu uygulamalara yapay zeka özellikleri entegre edebilirisniz. Gemini içine gömebilirsiniz.)
+https://aistudio.google.com/apps/7d5a4dfb-ad61-4ff0-9abf-12b50c9ccb12?showPreview=true&showAssistant=true
+https://aistudio.google.com/apps/725c31fd-4930-48a6-8d2b-e5bc77d4b278?showPreview=true&showAssistant=true
+http://aistudio.google.com/apps/cd4acd68-4162-4bd9-b0d0-c208e5cbe510?showPreview=true&showAssistant=true
+https://aistudio.google.com/apps/234239f6-6ec7-474c-b780-07fced36ed8a?showPreview=true&showAssistant=true
+
