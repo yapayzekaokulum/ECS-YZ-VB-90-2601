@@ -16,7 +16,7 @@ https://www.kaggle.com/code/drmurataltun/titanik-yar-mas-mart-2026
 Ders 5- Araç Fiyat Tahmin
 https://colab.research.google.com/drive/1WrY0aLoyo94ePjqaMrfryPsmEY0zdBib?usp=sharing
 
-Ders 6-Slider Sldier Uygulaması
+Ders 6-Slider Foto Uygulaması
 https://colab.research.google.com/drive/19qY8vPjKlPxa93cuRrfFuILYtdv9JJtI?usp=sharing
 
 Ders 7-Toplu Görsel İndirme
