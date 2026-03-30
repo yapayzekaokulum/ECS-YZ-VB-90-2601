@@ -41,3 +41,4 @@ https://aistudio.google.com/apps/234239f6-6ec7-474c-b780-07fced36ed8a?showPrevie
 Ders-12 Google Trends
 https://colab.research.google.com/drive/1SOMWJv-9nTfhLkv8nvIFzN5p-eUF_GBw?usp=sharing
 
+<img width="1585" height="716" alt="image" src="https://github.com/user-attachments/assets/47c0ba39-2627-443d-acb2-7fbd11fb4234" />
