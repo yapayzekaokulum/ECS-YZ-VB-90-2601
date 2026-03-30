@@ -46,3 +46,6 @@ https://colab.research.google.com/drive/1SOMWJv-9nTfhLkv8nvIFzN5p-eUF_GBw?usp=sh
 Ödev Gradio arayüz ile Google Trends Arama 
 https://colab.research.google.com/drive/1CYyrRFhdcSCPjb4Q-STluktt98V5jQNl?usp=sharing 
 veya HF üzerinden space ile Deploy ederseniz o daha iyi :)
+
+Ders-14 Finans Verileri  (yfinance - Alpha Vantage API)
+https://colab.research.google.com/drive/1xsRxLNtAjSIUxaqG9RJ-bKxMpzjfHsFf?usp=sharing
