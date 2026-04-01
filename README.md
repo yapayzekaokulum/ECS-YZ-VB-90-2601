@@ -52,3 +52,7 @@ https://colab.research.google.com/drive/1xsRxLNtAjSIUxaqG9RJ-bKxMpzjfHsFf?usp=sh
 
 Ders-15 Open Weather API ile hava durumu 
 https://colab.research.google.com/drive/1eyZfdpoHxkJvQ8HmONwwwK86BcDBjhSn?usp=sharing
+
+
+Ders-16 Müşteri Terk (Churn) Analizi.ipynb
+https://colab.research.google.com/drive/1PrV3jKjenm-J7wqTMzmYm83ipVFkD4IH?usp=sharing
