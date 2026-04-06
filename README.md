@@ -56,3 +56,7 @@ https://colab.research.google.com/drive/1eyZfdpoHxkJvQ8HmONwwwK86BcDBjhSn?usp=sh
 
 Ders-16 Müşteri Terk (Churn) Analizi.ipynb
 https://colab.research.google.com/drive/1PrV3jKjenm-J7wqTMzmYm83ipVFkD4IH?usp=sharing
+
+Ders-17 Zaman Serisi Analizi 
+https://colab.research.google.com/drive/1YYXBS_RkO7OKoqHAO-Ur0EI1YyhakIGf?usp=sharing
+
