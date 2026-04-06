@@ -60,3 +60,6 @@ https://colab.research.google.com/drive/1PrV3jKjenm-J7wqTMzmYm83ipVFkD4IH?usp=sh
 Ders-17 Zaman Serisi Analizi 
 https://colab.research.google.com/drive/1YYXBS_RkO7OKoqHAO-Ur0EI1YyhakIGf?usp=sharing
 
+
+Ders 18- Coalb Veri Analizi Asistanı ile (Vibe Coding Denemesi)
+https://colab.research.google.com/drive/1rNPyzZ1DQYOha2GJkgGYb7BdZPHmObq1?usp=sharing (Kullanılanb veri seti data ya yüklenmiştir.)
