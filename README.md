@@ -63,3 +63,6 @@ https://colab.research.google.com/drive/1YYXBS_RkO7OKoqHAO-Ur0EI1YyhakIGf?usp=sh
 
 Ders 18- Coalb Veri Analizi Asistanı ile (Vibe Coding Denemesi)
 https://colab.research.google.com/drive/1rNPyzZ1DQYOha2GJkgGYb7BdZPHmObq1?usp=sharing (Kullanılanb veri seti data ya yüklenmiştir.)
+
+Ders 19- Öneri Sistemleri (Film Öneri Sistemi)
+https://colab.research.google.com/drive/1QJnDn6D_BgL1SoMo-_oPfXztoMxHIIym?usp=sharing
