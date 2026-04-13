@@ -66,3 +66,7 @@ https://colab.research.google.com/drive/1rNPyzZ1DQYOha2GJkgGYb7BdZPHmObq1?usp=sh
 
 Ders 19- Öneri Sistemleri (Film Öneri Sistemi)
 https://colab.research.google.com/drive/1QJnDn6D_BgL1SoMo-_oPfXztoMxHIIym?usp=sharing
+
+Ders 20-OpenCV şle Görüntü İşleme
+https://colab.research.google.com/drive/1od-OqvDkexJ2xGJToSYU0wZUOOsl8mpW?usp=sharing
+
