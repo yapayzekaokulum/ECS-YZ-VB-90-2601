@@ -70,3 +70,5 @@ https://colab.research.google.com/drive/1QJnDn6D_BgL1SoMo-_oPfXztoMxHIIym?usp=sh
 Ders 20-OpenCV şle Görüntü İşleme
 https://colab.research.google.com/drive/1od-OqvDkexJ2xGJToSYU0wZUOOsl8mpW?usp=sharing
 
+Ders-21 OpencV Web cam uygulamaları
+
