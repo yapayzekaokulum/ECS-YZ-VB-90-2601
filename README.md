@@ -71,8 +71,9 @@ Ders 20-OpenCV şle Görüntü İşleme
 https://colab.research.google.com/drive/1od-OqvDkexJ2xGJToSYU0wZUOOsl8mpW?usp=sharing
 
 Ders-21 OpencV Web cam uygulamaları
+
 repoda mevcut ders 21 koduyla
 Hugging Face Örneği: https://huggingface.co/spaces/drmurataltun/foto_filter
 
-Ders-22 DL (Deep Learning MNIST Uyg)
+Ders-22 DL (Deep Learning MNIST Uyg) <br>
 https://colab.research.google.com/drive/1NWqu9K17CrFVrWp8uXe40gQStc5NPM6r?usp=sharing
