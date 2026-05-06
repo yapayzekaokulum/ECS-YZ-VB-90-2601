@@ -28,6 +28,7 @@
 | **Ders 21** | OpenCV Webcam Uygulamaları | `Kod repoda mevcuttur`<br>[HF Space Örneği](https://huggingface.co/spaces/drmurataltun/foto_filter) |
 | **Ders 22** | Deep Learning (MNIST Uygulaması) | [Colab](https://colab.research.google.com/drive/1NWqu9K17CrFVrWp8uXe40gQStc5NPM6r?usp=sharing) |
 | **Ders 23** | Deep Learning KERAS ANN - Linear Regression Karşışatırması | [Colab](https://colab.research.google.com/drive/1rjIPkFTOF_y8kARn6gcUSdBGhN97ZlDP?usp=sharing) |
+| **Ders 24** | NLP- Doğal Dil İşlemenin Temelleri| [Colab](https://colab.research.google.com/drive/1N9FyxZDRoRx5hyUGPUpy2DDvK2dMs_Sr?usp=sharing) |
 ## Ekran Görüntüleri
 
 <img width="1585" height="716" alt="image" src="https://github.com/user-attachments/assets/47c0ba39-2627-443d-acb2-7fbd11fb4234" />
